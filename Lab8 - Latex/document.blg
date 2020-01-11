@@ -1,0 +1,19 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
+The style file: plain.bst
+Database file #1: bibliografia.bib
+You're missing a field name---line 6 of file bibliografia.bib
+ :     
+ :     %month    = "czerwiec"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 14 of file bibliografia.bib
+ :     
+ :     %month    = "styczeń"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 22 of file bibliografia.bib
+ :     
+ :     %month    = "lipiec"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 3 error messages)

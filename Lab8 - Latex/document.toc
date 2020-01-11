@@ -1,0 +1,14 @@
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Zadanie 3}{2}%
+\contentsline {subsection}{\numberline {1.1}Podpunkt a}{2}%
+\contentsline {section}{\numberline {2}Zadanie 4}{3}%
+\contentsline {subsection}{\numberline {2.1}Egzaminy}{3}%
+\contentsline {subsection}{\numberline {2.2}Języki programowania}{3}%
+\contentsline {section}{\numberline {3}Zadanie 5}{3}%
+\contentsline {subsection}{\numberline {3.1}Cudzysłowy}{3}%
+\contentsline {section}{\numberline {4}Zadanie 6}{4}%
+\contentsline {subsection}{\numberline {4.1}Rysunek}{4}%
+\contentsline {subsection}{\numberline {4.2}Tabela}{4}%
+\contentsline {section}{\numberline {5}Zadanie 7}{5}%
+\contentsline {subsection}{\numberline {5.1}Równania}{5}%
+\contentsline {section}{\numberline {6}Bibliografia}{5}%

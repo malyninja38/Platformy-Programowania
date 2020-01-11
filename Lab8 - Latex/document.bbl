@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{lat}
+Tobias Oetiker.
+\newblock {\em Nie za krótkie wprowadzenie do systemu LATEX2}.
+\newblock Tobias Oetiker and Contributers, 2007.
+
+\bibitem{harry}
+J.K. Rowling.
+\newblock {\em Harry Potter and the Philosopher's Stone}.
+\newblock Bloomsbury Publishing, 1997.
+
+\bibitem{cyt}
+J.K. Rowling.
+\newblock {\em Harry Potter and the Prisoner of Azkaban}.
+\newblock Bloomsbury Publishing, 1999.
+
+\end{thebibliography}
