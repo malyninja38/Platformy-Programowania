@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="NewPersistenceUnit">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>PPpac.CoffeesEntity</class>
+        <class>PPpac.CoffeeDescriptionsEntity</class>
+        <class>PPpac.CoffeeHousesEntity</class>
+        <class>PPpac.CofInventoryEntity</class>
+        <class>PPpac.DataRepositoryEntity</class>
+        <class>PPpac.MerchInventoryEntity</class>
+        <class>PPpac.RssFeedsEntity</class>
+        <class>PPpac.SuppliersEntity</class>
+        <properties>
+            <property name="eclipselink.jdbc.url" value="jdbc:sqlserver://LAPTOP-H2G6J9IU\SQL;databaseName=PP;integratedSecurity=true"/>
+            <property name="eclipselink.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver"/>
+            <property name="eclipselink.jdbc.user" value=""/>
+            <property name="eclipselink.jdbc.password" value=""/>
+        </properties>
+    </persistence-unit>
+</persistence>
